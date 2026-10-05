@@ -1,0 +1,7 @@
+{
+  "img_size": 192,
+  "num_classes": 38,
+  "threshold": 0.6,
+  "model": "EfficientNetB3",
+  "preprocessing": "preprocess_input"
+}
